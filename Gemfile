@@ -9,7 +9,7 @@ gem 'sqlite3'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
-gem 'bcrypt'
+gem 'bcrypt' #provides hashing algorithm 
 gem "tux"
 
 group :test do
